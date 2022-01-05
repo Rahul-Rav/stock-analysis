@@ -14,12 +14,16 @@
     ENPH at 129.52% in 2017 and 81.92% in 2018 and RUN at 5.55% in 2017 and 83.95% in 2018.
     While ENPH still turned a profit in 2018, it was 47.6% less than they have made in 2017. RUN on the other hand had small profit in 2017 but increased it by 78.4% in 2018.
     Looking at this data, Steve might consider recommending RUN to his parents to invest in, due to the rate of growth they had made compared to the majority of the other stocks, which 11 out of the 12 had reported losses.
-
+<img width="282" alt="AllStocks_2017" src="https://user-images.githubusercontent.com/95504135/148285015-95f1129f-9401-4a40-8633-a84a858fed4a.png">
+<img width="282" alt="AllStocks_2018" src="https://user-images.githubusercontent.com/95504135/148285024-032eaebb-c8e7-4b5d-9f74-7630db8f0b55.png">
 
 ## Summary
     The final portion of this project was the refactoring of our code. Refactoring code is simply the optimization of pre-existing code, which comes with its advantages and potential disadvantages.
     Our original script was successful in running our code to display stock data for any year we choose through the message box. The original code relied on additional complex lines of code that we had to look up, which may not be easy to read for some.
     Through the process of refactoring we were able to successfully make the VBA script run faster. The biggest additions to the refactored code was the use of layered If/Then statements and For loops to optimize the time in which our script runs.
+<img width="256" alt="VBA_Challenge_2017" src="https://user-images.githubusercontent.com/95504135/148285054-19cb2ccb-2958-46e1-b600-56cd7509aa4e.png">
+<img width="263" alt="VBA_Challenge_2018" src="https://user-images.githubusercontent.com/95504135/148285078-8a4b3a32-3886-44e6-b890-521250a7091a.png">
+
 ### Advantages of Refactoring    
     Advantages include the potential simplification of pre-existing code to use less memory and run analyses on larger datasets quicker. At the end of our code, we had implemented a  timer to measure code performance. Comparing our initial timer to our refactored code, it was found that the refactored code ran much quicker on our datasets. Beyond the time in which our code runs, refactoring can make the code easier to read and understand. Code can be viwed as a story and the coder as an author - every author has a different style but some may use complex jargon compared to others who may write in ways that are more accessible to less experienced readers.
 ### Disadvantages of Refactoring    
