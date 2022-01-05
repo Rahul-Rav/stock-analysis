@@ -1,4 +1,4 @@
- VBA of Wall Street
+# VBA of Wall Street
 
 ## Overview
     Our friend Steve has just graduated with a finance degree and has been asked by his parents to look into DAQO (DQ) stock - a green energy company that they want to invenst in. Steve - with our help is looking into DAQO as well as looking to help his parents diversify their funds. Steve created an Excel sheet containing information on green energy stocks that he is looking for us to analyze. Using VBA, we create code that can automate tasks to help Steve analyze multiple stocks. 
